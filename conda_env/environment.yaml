@@ -1,0 +1,11 @@
+name: tutorial
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - biobb_pytorch
+  - jupyter
+  - numpy
+  - mdtraj
+  - nglview
+  - requests

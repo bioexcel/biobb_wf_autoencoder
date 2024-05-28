@@ -128,6 +128,8 @@ todo_include_todos = False
 def setup(app):
     app.add_css_file('theme_overrides.css')
     app.add_js_file('theme_overrides.js')
+    app.add_js_file('https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML')
+    app.add_js_file('mathjax-config.js')
 
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for

@@ -1,11 +1,10 @@
-name: tutorial
+name: biobb_wf_autoencoder
 channels:
   - conda-forge
   - bioconda
 dependencies:
   - python >= 3.8
   - biobb_pytorch
-  - jupyter
   - numpy
   - mdtraj
   - nglview

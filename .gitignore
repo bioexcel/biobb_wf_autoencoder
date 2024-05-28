@@ -1,1 +1,17 @@
+guidelines.md
 .ipynb_checkpoints
+.DS_Store
+log*.*
+!logo.png
+.ipynb_checkpoints/
+biobb_wf_autoencoder/notebooks/trajs
+biobb_wf_autoencoder/notebooks/*-*-*-*-*
+biobb_wf_autoencoder/notebooks/*.png
+biobb_wf_autoencoder/notebooks/*.gif
+biobb_wf_autoencoder/notebooks/*.npy
+biobb_wf_autoencoder/notebooks/*.pth
+biobb_wf_autoencoder/notebooks/*.npz
+biobb_wf_autoencoder/notebooks/*.web.ipynb
+biobb_wf_autoencoder/notebooks/*.docs.ipynb
+biobb_wf_autoencoder/docs/notebooks
+biobb_wf_autoencoder/html/biobb_wf_autoencoder.web.ipynb

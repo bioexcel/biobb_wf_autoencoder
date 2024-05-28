@@ -1,0 +1,19 @@
+
+{
+  "@context": "http://schema.org",
+  "@id": "https://github.com/bioexcel/biobb_wf_autoencoder",
+  "@type": "ItemList",
+  "name": "AutoEncoders for Anomaly Detection",
+  "itemListElement": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://raw.githubusercontent.com/bioexcel/biobb/master/references.jsonld",
+      "name": "biobb"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://raw.githubusercontent.com/bioexcel/biobb_pytorch/master/references.jsonld",
+      "name": "biobb_pytorch"
+    }
+  ]
+}

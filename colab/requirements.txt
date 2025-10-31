@@ -1,4 +1,6 @@
 biobb_pytorch
+biobb_gromacs
+biobb_analysis
 jupyter
 numpy
 mdtraj

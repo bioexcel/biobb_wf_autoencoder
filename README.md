@@ -14,6 +14,10 @@ This tutorial involves the use of a **multilayer AutoEncoder (AE)** for **featur
 
 * [biobb_pytorch](https://github.com/bioexcel/biobb_pytorch): module collection to create and train ML & DL models using the popular PyTorch Python library.
 
+* [biobb_gromacs](https://github.com/bioexcel/biobb_gromacs): module collection to setup and run Molecular Dynamics simulations with Gromacs.
+
+* [biobb_analysis](https://github.com/bioexcel/biobb_analysis): module collection to analyse Molecular Dynamics trajectories.  
+
 ### Auxiliary libraries used
 
 * [jupyter](https://jupyter.org/): Free software, open standards, and web services for interactive computing across all programming languages.

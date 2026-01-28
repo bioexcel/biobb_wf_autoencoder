@@ -14,6 +14,7 @@ biobb_wf_autoencoder/notebooks/*.pth
 biobb_wf_autoencoder/notebooks/*.npz
 biobb_wf_autoencoder/notebooks/*.web.ipynb
 biobb_wf_autoencoder/notebooks/*.docs.ipynb
+biobb_wf_autoencoder/notebooks/test.ipynb
 biobb_wf_autoencoder/docs/notebooks
 biobb_wf_autoencoder/html/biobb_wf_autoencoder.web.ipynb
 biobb_wf_autoencoder/docs/notebooks/test.ipynb

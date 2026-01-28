@@ -4,6 +4,7 @@ guidelines.md
 log*.*
 !logo.png
 .ipynb_checkpoints/
+colab/
 biobb_wf_autoencoder/notebooks/trajs
 biobb_wf_autoencoder/notebooks/*-*-*-*-*
 biobb_wf_autoencoder/notebooks/*.png
@@ -15,3 +16,4 @@ biobb_wf_autoencoder/notebooks/*.web.ipynb
 biobb_wf_autoencoder/notebooks/*.docs.ipynb
 biobb_wf_autoencoder/docs/notebooks
 biobb_wf_autoencoder/html/biobb_wf_autoencoder.web.ipynb
+biobb_wf_autoencoder/docs/notebooks/test.ipynb

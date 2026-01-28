@@ -3,10 +3,12 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - python >= 3.8
-  - biobb_pytorch
+  - biobb_pytorch==5.1.0
+  - biobb_analysis==5.1.0
+  - biobb_gromacs==5.1.0
   - numpy
   - mdtraj
-  - nglview
+  - nglview 
+  - ipywidgets
   - requests
   - matplotlib

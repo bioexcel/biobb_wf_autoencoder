@@ -12,3 +12,6 @@ dependencies:
   - ipywidgets
   - requests
   - matplotlib
+  - jupyterlab=3.6
+  - nodejs=16
+  - ipywidgets=7

@@ -5,8 +5,12 @@ log*.*
 !logo.png
 .ipynb_checkpoints/
 colab/
-biobb_wf_autoencoder/notebooks/trajs
+biobb_wf_autoencoder/notebooks/trajs*
+biobb_wf_autoencoder/notebooks/lightning_logs
 biobb_wf_autoencoder/notebooks/*-*-*-*-*
+biobb_wf_autoencoder/notebooks/*.pt
+biobb_wf_autoencoder/notebooks/*.dat
+biobb_wf_autoencoder/notebooks/*.ptc
 biobb_wf_autoencoder/notebooks/*.png
 biobb_wf_autoencoder/notebooks/*.gif
 biobb_wf_autoencoder/notebooks/*.npy

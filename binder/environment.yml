@@ -1,9 +1,9 @@
 name: biobb_wf_autoencoder
 channels:
   - conda-forge
+  - bioconda
   - nodefaults
 dependencies:
-  - python=3.11
   - biobb_pytorch==5.2.3
   - biobb_analysis==5.2.1
   - biobb_gromacs==5.2.1
